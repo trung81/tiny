@@ -1,4 +1,9 @@
 {
   "name": "@trung81/tiny",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "licence": "MIT",
+  "repository": "trung81/tiny",
+  "main": "index.js",
+  "keywords": ["tiny", "npm", "package", "trung81"]
 }

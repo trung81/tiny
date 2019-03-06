@@ -5,10 +5,6 @@
   "licence": "MIT",
   "repository": "trung81/tiny",
   "main": "index.js",
-  "keywords": [
-    "tiny",
-    "npm",
-    "package",
-    "trung81"
-  ]
+  "typings": "./dist/definitions/index.d.ts",
+  "keywords": ["tiny", "npm", "package", "trung81"]
 }
